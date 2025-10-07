@@ -1,5 +1,11 @@
 Movie Data Analytics Projects
 
+Executive Summary:
+
+Business Problem: 
+
+Methodology: 
+
 This repository contains two Python-based data analysis projects focused on movie performance and trends, using real-world data scraped from Metacritic and IMDB.
 Each project demonstrates data cleaning, database querying, visualization, and storytelling using pandas, matplotlib, and MongoDB.
 
@@ -16,3 +22,10 @@ Goal: Investigate whether higher budgets and better Metacritic scores lead to st
 - Combined IMDB and Metacritic datasets for 2017 releases
 - Analyzed budget vs. opening revenue and rating vs. revenue correlations
 - Discovered that critical reception correlates moderately with box-office success, but high budgets alone don’t ensure profitability
+
+Skills: 
+
+Results and recommendations: 
+
+Next steps:
+
