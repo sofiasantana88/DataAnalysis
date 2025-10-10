@@ -51,6 +51,10 @@ Goal: Investigate whether higher budgets and better Metacritic scores lead to st
 - Discovered that while critical acclaim tends to correlate with opening performance, it doesn’t always sustain long-term profitability.
 - Genres like drama and action show more stable returns, whereas comedy and experimental films exhibit higher volatility in revenue outcomes.
 - Built a MongoDB pipeline for future automated updates and scalability.
+- <img width="1018" height="697" alt="image" src="https://github.com/user-attachments/assets/c73bd2fa-013f-4b03-a20b-6c923114acb6" />
+<img width="1488" height="853" alt="image" src="https://github.com/user-attachments/assets/fdcf03e7-564b-4f3e-b2ce-ddaad0b9d2dc" />
+<img width="1274" height="859" alt="image" src="https://github.com/user-attachments/assets/d1b468f8-43e0-4095-aa72-453c18331a2e" />
+
 
 ## **Next Steps**
 1. Add 2020–2024 datasets to observe post-pandemic box-office recovery patterns.
